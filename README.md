@@ -57,5 +57,12 @@ Les interrogations sur les données peuvent porter sur des questions comme :
 
 Quelques exemples associés à la liste partielle présentée ci-dessus sont présentés dans les annexes.
 
+## Annexe 1
 
+<img src = "/images-annexes/Image 14-04-2023 at 01.39.jpg" alt="annexe1"> 
+
+
+## Annexe 2
+
+<img src="/images-annexes/Image 14-04-2023 at 01.41.jpg" alt="annexe2" >
 
